@@ -1,8 +1,9 @@
 [
   {
+    "updatedAt": 1648815620146,
     "createdAt": 1648813067746,
     "ID": "9a31ae38-a1a4-4cd0-b6fd-6857b0480988",
     "Title": "This is my title",
-    "Description": "Yes, it's created with Contenrain Headless CMS"
+    "Description": "Yes, it's created with Contentrain Headless CMS"
   }
 ]
